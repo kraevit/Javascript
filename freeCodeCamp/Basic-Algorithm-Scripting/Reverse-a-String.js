@@ -26,7 +26,8 @@ Here are some helpful links:
 */
 
 function reverseString(str) {
-  return str;
+  var strReversed = str.split('').reverse().join('');
+  console.log(strReversed);
 }
 
-reverseString("hello");
+reverseString("hello there");
