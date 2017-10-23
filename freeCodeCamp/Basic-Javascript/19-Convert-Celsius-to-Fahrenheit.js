@@ -1,5 +1,6 @@
 /*
 19-Convert-Celsius-to-Fahrenheit.js
+
 To test your learning, you will create a solution "from scratch".
 Place your code between the indicated lines and it will be tested against
 multiple test cases.
@@ -21,8 +22,12 @@ Don't worry too much about the function and return statements as they
 function convertToF(celsius) {
   var fahrenheit;
   // Only change code below this line
+  var cTemp = celsius;
+  var cToFahr = cTemp * 9 / 5 + 32;
+  var message = cTemp+'\xB0C is ' + cToFahr + ' \xB0F.';
+  console.log(message);
 
-
+  fahrenheit = cToFahr;
   // Only change code above this line
   return fahrenheit;
 }
