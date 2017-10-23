@@ -1,48 +1,9 @@
-10-Decrement-a-Number-with-JS.js
 
-11-Create-Decimal-Numbers-with-JavaScript.js
 
-12-Multiply-Two-Decimals-with-JavaScript.js
 
-13-Divide-one-Decimal-by-Another-with-JavaScript.js
+31-Use-Bracket-Notation-to-Find-the-Nth-Character-in-a-String.js
 
-14-Finding-a-Remainder-in-JavaScript.js
-
-15-Compound-Assignment-With-Augmented-Addition.js
-
-16-Compound-Assignment-With-Augmented-Subtraction.js
-
-17-Compound-Assignment-With-Augmented-Multiplication.js
-
-18-Compound-Assignment-With-Augmented-Division.js
-
-19-Convert-Celsius-to-Fahrenheit.js
-
-20-Declare-String-Variables.js
-
-21-Escaping-Literal-Quotes-in-Strings.js
-
-22-Quoting-Strings-with-Single-Quotes.js
-
-23-Escape-Sequences-in-Strings.js
-
-24-Concatenating-Strings-with-Plus-Operator.js
-
-25-Concatenating-Strings-with-the-Plus-Equals-Operator.js
-
-26-Constructing-Strings-with-Variables.js
-
-27-Appending-Variables-to-Strings.js
-
-28-Find-the-Length-of-a-String.js
-
-29-Use-Bracket-Notation-to-Find-the-First-Character-in-a-String.js
-
-30-Understand-String-Immutability.js
-
-31-Use Bracket Notation to Find the Nth Character in a String.js
-
-32-Use Bracket Notation to Find the Last Character in a String.js
+32-Use-Bracket-Notation-to-Find-the-Last-Character-in-a-String.js
 
 33-Use Bracket Notation to Find the Nth-to-Last Character in a String.js
 
