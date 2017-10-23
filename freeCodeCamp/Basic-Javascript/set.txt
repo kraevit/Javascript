@@ -1,207 +1,185 @@
-Complete
+10-Decrement-a-Number-with-JS.js
 
-Declare JavaScript Variables Complete
+11-Create-Decimal-Numbers-with-JavaScript.js
 
-Storing Values with the Assignment Operator Complete
+12-Multiply-Two-Decimals-with-JavaScript.js
 
-Initializing Variables with the Assignment Operator Complete
+13-Divide-one-Decimal-by-Another-with-JavaScript.js
 
-Understanding Uninitialized Variables Complete
+14-Finding-a-Remainder-in-JavaScript.js
 
-Understanding Case Sensitivity in Variables Complete
+15-Compound-Assignment-With-Augmented-Addition.js
 
-Add Two Numbers with JavaScript Complete
+16-Compound-Assignment-With-Augmented-Subtraction.js
 
-Subtract One Number from Another with JavaScript Complete
+17-Compound-Assignment-With-Augmented-Multiplication.js
 
-Multiply Two Numbers with JavaScript Complete
+18-Compound-Assignment-With-Augmented-Division.js
 
-Divide One Number by Another with JavaScript Complete
+19-Convert-Celsius-to-Fahrenheit.js
 
-Increment a Number with JavaScript Complete
+20-Declare-String-Variables.js
 
-Decrement a Number with JavaScript Complete
+21-Escaping-Literal-Quotes-in-Strings.js
 
-Create Decimal Numbers with JavaScript Complete
+22-Quoting-Strings-with-Single-Quotes.js
 
-Multiply Two Decimals with JavaScript Complete
+23-Escape-Sequences-in-Strings.js
 
-Divide one Decimal by Another with JavaScript Complete
+24-Concatenating-Strings-with-Plus-Operator.js
 
-Finding a Remainder in JavaScript Complete
+25-Concatenating-Strings-with-the-Plus-Equals-Operator.js
 
-Compound Assignment With Augmented Addition Complete
+26-Constructing-Strings-with-Variables.js
 
-Compound Assignment With Augmented Subtraction Complete
+27-Appending-Variables-to-Strings.js
 
-Compound Assignment With Augmented Multiplication Complete
+28-Find-the-Length-of-a-String.js
 
-Compound Assignment With Augmented Division Complete
+29-Use-Bracket-Notation-to-Find-the-First-Character-in-a-String.js
 
-Convert Celsius to Fahrenheit Complete
+30-Understand-String-Immutability.js
 
-Declare String Variables Complete
+31-Use Bracket Notation to Find the Nth Character in a String.js
 
-Escaping Literal Quotes in Strings Complete
+32-Use Bracket Notation to Find the Last Character in a String.js
 
-Quoting Strings with Single Quotes Complete
+33-Use Bracket Notation to Find the Nth-to-Last Character in a String.js
 
-Escape Sequences in Strings Complete
+34-Word Blanks.js
 
-Concatenating Strings with Plus Operator Complete
+35-Store Multiple Values in one Variable using JavaScript Arrays.js
 
-Concatenating Strings with the Plus Equals Operator Complete
+36-Nest one Array within Another Array.js
 
-Constructing Strings with Variables Complete
+37-Access Array Data with Indexes.js
 
-Appending Variables to Strings Complete
+38-Modify Array Data With Indexes.js
 
-Find the Length of a String Complete
+39-Access Multi-Dimensional Arrays With Indexes.js
 
-Use Bracket Notation to Find the First Character in a String Complete
+40-Manipulate Arrays With push().js
 
-Understand String Immutability Complete
+41-Manipulate Arrays With pop().js
 
-Use Bracket Notation to Find the Nth Character in a String Complete
+42-Manipulate Arrays With shift().js
 
-Use Bracket Notation to Find the Last Character in a String Complete
+43-Manipulate Arrays With unshift().js
 
-Use Bracket Notation to Find the Nth-to-Last Character in a String Complete
+44-Shopping List.js
 
-Word Blanks Complete
+45-Write Reusable JavaScript with Functions.js
 
-Store Multiple Values in one Variable using JavaScript Arrays Complete
+46-Passing Values to Functions with Arguments.js
 
-Nest one Array within Another Array Complete
+47-Global Scope and Functions.js
 
-Access Array Data with Indexes Complete
+48-Local Scope and Functions.js
 
-Modify Array Data With Indexes Complete
+49-Global vs. Local Scope in Functions.js
 
-Access Multi-Dimensional Arrays With Indexes Complete
+50-Return a Value from a Function with Return.js
 
-Manipulate Arrays With push() Complete
+51-Assignment with a Returned Value.js
 
-Manipulate Arrays With pop() Complete
+Stand in Line.js
 
-Manipulate Arrays With shift() Complete
+Understanding Boolean Values.js
 
-Manipulate Arrays With unshift() Complete
+Use Conditional Logic with If Statements.js
 
-Shopping List Complete
+Comparison with the Equality Operator.js
 
-Write Reusable JavaScript with Functions Complete
+Comparison with the Strict Equality Operator.js
 
-Passing Values to Functions with Arguments Complete
+Comparison with the Inequality Operator.js
 
-Global Scope and Functions Complete
+Comparison with the Strict Inequality Operator.js
 
-Local Scope and Functions Complete
+Comparison with the Greater Than Operator.js
 
-Global vs. Local Scope in Functions Complete
+Comparison with the Greater Than Or Equal To Operator.js
 
-Return a Value from a Function with Return Complete
+Comparison with the Less Than Operator.js
 
-Assignment with a Returned Value Complete
+Comparison with the Less Than Or Equal To Operator.js
 
-Stand in Line Complete
+Comparisons with the Logical And Operator.js
 
-Understanding Boolean Values Complete
+Comparisons with the Logical Or Operator.js
 
-Use Conditional Logic with If Statements Complete
+Introducing Else Statements.js
 
-Comparison with the Equality Operator Complete
+Introducing Else If Statements.js
 
-Comparison with the Strict Equality Operator Complete
+Logical Order in If Else Statements.js
 
-Comparison with the Inequality Operator Complete
+Chaining If Else Statements.js
 
-Comparison with the Strict Inequality Operator Complete
+Golf Code.js
 
-Comparison with the Greater Than Operator Complete
+Selecting from many options with Switch Statements.js
 
-Comparison with the Greater Than Or Equal To Operator Complete
+Adding a default option in Switch statements.js
 
-Comparison with the Less Than Operator Complete
+Multiple Identical Options in Switch Statements.js
 
-Comparison with the Less Than Or Equal To Operator Complete
+Replacing If Else Chains with Switch.js
 
-Comparisons with the Logical And Operator Complete
+Returning Boolean Values from Functions.js
 
-Comparisons with the Logical Or Operator Complete
+Return Early Pattern for Functions.js
 
-Introducing Else Statements Complete
+Counting Cards.js
 
-Introducing Else If Statements Complete
+Build JavaScript Objects.js
 
-Logical Order in If Else Statements Complete
+Accessing Objects Properties with the Dot Operator.js
 
-Chaining If Else Statements Complete
+Accessing Objects Properties with Bracket Notation.js
 
-Golf Code Complete
+Accessing Objects Properties with Variables.js
 
-Selecting from many options with Switch Statements Complete
+Updating Object Properties.js
 
-Adding a default option in Switch statements Complete
+Add New Properties to a JavaScript Object.js
 
-Multiple Identical Options in Switch Statements Complete
+Delete Properties from a JavaScript Object.js
 
-Replacing If Else Chains with Switch Complete
+Using Objects for Lookups.js
 
-Returning Boolean Values from Functions Complete
+Testing Objects for Properties.js
 
-Return Early Pattern for Functions Complete
+Manipulating Complex Objects.js
 
-Counting Cards Complete
+Accessing Nested Objects.js
 
-Build JavaScript Objects Complete
+Accessing Nested Arrays.js
 
-Accessing Objects Properties with the Dot Operator Complete
+Iterate with JavaScript For Loops.js
 
-Accessing Objects Properties with Bracket Notation Complete
+Iterate Odd Numbers With a For Loop.js
 
-Accessing Objects Properties with Variables Complete
+Count Backwards With a For Loop.js
 
-Updating Object Properties Complete
+Iterate Through an Array with a For Loop.js
 
-Add New Properties to a JavaScript Object Complete
+Nesting For Loops.js
 
-Delete Properties from a JavaScript Object Complete
+Iterate with JavaScript While Loops.js
 
-Using Objects for Lookups Complete
+Profile Lookup.js
 
-Testing Objects for Properties Complete
+Generate Random Fractions with JavaScript.js
 
-Manipulating Complex Objects Complete
+Generate Random Whole Numbers with JavaScript.js
 
-Accessing Nested Objects Complete
+Generate Random Whole Numbers within a Range.js
 
-Accessing Nested Arrays Complete
+Sift through Text with Regular Expressions.js
 
-Iterate with JavaScript For Loops Complete
+Find Numbers with Regular Expressions.js
 
-Iterate Odd Numbers With a For Loop Complete
-
-Count Backwards With a For Loop Complete
-
-Iterate Through an Array with a For Loop Complete
-
-Nesting For Loops Complete
-
-Iterate with JavaScript While Loops Complete
-
-Profile Lookup Complete
-
-Generate Random Fractions with JavaScript Complete
-
-Generate Random Whole Numbers with JavaScript Complete
-
-Generate Random Whole Numbers within a Range Complete
-
-Sift through Text with Regular Expressions Complete
-
-Find Numbers with Regular Expressions Complete
-
-Find Whitespace with Regular Expressions Complete
+Find Whitespace with Regular Expressions.js
 
 Invert Regular Expression Matches with JavaScript
