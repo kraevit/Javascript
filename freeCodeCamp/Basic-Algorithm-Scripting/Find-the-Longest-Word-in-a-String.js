@@ -26,12 +26,12 @@ function findLongestWord(str) {
   maxLen = 0;
 
   for (var i = 0; i < words.length; i++ ) {
-    console.log(i);
+    // console.log(i);
     if ( words[i].length > maxLen ) {
       maxLen = words[i].length;
     }
   }
-  console.log(maxLen);
+  // console.log(maxLen);
   return maxLen;
 }
 
