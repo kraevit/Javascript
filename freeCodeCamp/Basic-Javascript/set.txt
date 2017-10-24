@@ -1,47 +1,18 @@
+44-Shopping-List.js
 
+45-Write-Reusable-JavaScript-with-Functions.js
 
+46-Passing-Values-to-Functions-with-Arguments.js
 
-31-Use-Bracket-Notation-to-Find-the-Nth-Character-in-a-String.js
+47-Global-Scope-and-Functions.js
 
-32-Use-Bracket-Notation-to-Find-the-Last-Character-in-a-String.js
+48-Local-Scope-and-Functions.js
 
-33-Use Bracket Notation to Find the Nth-to-Last Character in a String.js
+49-Global-vs-Local-Scope-in-Functions.js
 
-34-Word Blanks.js
+50-Return-a-Value-from-a-Function-with-Return.js
 
-35-Store Multiple Values in one Variable using JavaScript Arrays.js
-
-36-Nest one Array within Another Array.js
-
-37-Access Array Data with Indexes.js
-
-38-Modify Array Data With Indexes.js
-
-39-Access Multi-Dimensional Arrays With Indexes.js
-
-40-Manipulate Arrays With push().js
-
-41-Manipulate Arrays With pop().js
-
-42-Manipulate Arrays With shift().js
-
-43-Manipulate Arrays With unshift().js
-
-44-Shopping List.js
-
-45-Write Reusable JavaScript with Functions.js
-
-46-Passing Values to Functions with Arguments.js
-
-47-Global Scope and Functions.js
-
-48-Local Scope and Functions.js
-
-49-Global vs. Local Scope in Functions.js
-
-50-Return a Value from a Function with Return.js
-
-51-Assignment with a Returned Value.js
+51-Assignment-with-a-Returned-Value.js
 
 Stand in Line.js
 
