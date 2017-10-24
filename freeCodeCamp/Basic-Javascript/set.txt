@@ -1,7 +1,3 @@
-52-Stand-in-Line.js
-53-Understanding-Boolean-Values.js
-54-Use Conditional-Logic-with-If-Statements.js
-55-Comparison-with-the-Equality-Operator.js
 56-Comparison-with-the-Strict-Equality-Operator.js
 57-Comparison-with-the-Inequality-Operator.js
 58-Comparison-with-the-Strict-Inequality-Operator.js

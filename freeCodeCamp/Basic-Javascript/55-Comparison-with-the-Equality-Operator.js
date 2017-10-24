@@ -6,7 +6,8 @@ boolean true or false value.
 
 The most basic operator is the equality operator ==. The equality operator
 compares two values and returns true if they're equivalent or false if they are
-not. Note that equality is different from assignment (=), which assigns the value at the right of the operator to a variable in the left.
+not. Note that equality is different from assignment (=), which assigns the
+value at the right of the operator to a variable in the left.
 
 function equalityTest(myVal) {
   if (myVal == 10) {
@@ -26,6 +27,7 @@ however, it can compare terms as follows:
    1   ==  2    // false
    1   == '1'   // true
   "3"  ==  3    // true
+  
 Instructions
 Add the equality operator to the indicated line so that the function
 will return "Equal" when val is equivalent to 12
