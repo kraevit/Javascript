@@ -1,117 +1,51 @@
-44-Shopping-List.js
-
-45-Write-Reusable-JavaScript-with-Functions.js
-
-46-Passing-Values-to-Functions-with-Arguments.js
-
-47-Global-Scope-and-Functions.js
-
-48-Local-Scope-and-Functions.js
-
-49-Global-vs-Local-Scope-in-Functions.js
-
-50-Return-a-Value-from-a-Function-with-Return.js
-
-51-Assignment-with-a-Returned-Value.js
-
-Stand in Line.js
-
-Understanding Boolean Values.js
-
-Use Conditional Logic with If Statements.js
-
-Comparison with the Equality Operator.js
-
-Comparison with the Strict Equality Operator.js
-
-Comparison with the Inequality Operator.js
-
-Comparison with the Strict Inequality Operator.js
-
-Comparison with the Greater Than Operator.js
-
-Comparison with the Greater Than Or Equal To Operator.js
-
-Comparison with the Less Than Operator.js
-
-Comparison with the Less Than Or Equal To Operator.js
-
-Comparisons with the Logical And Operator.js
-
-Comparisons with the Logical Or Operator.js
-
-Introducing Else Statements.js
-
-Introducing Else If Statements.js
-
-Logical Order in If Else Statements.js
-
-Chaining If Else Statements.js
-
-Golf Code.js
-
-Selecting from many options with Switch Statements.js
-
-Adding a default option in Switch statements.js
-
-Multiple Identical Options in Switch Statements.js
-
-Replacing If Else Chains with Switch.js
-
-Returning Boolean Values from Functions.js
-
-Return Early Pattern for Functions.js
-
-Counting Cards.js
-
-Build JavaScript Objects.js
-
-Accessing Objects Properties with the Dot Operator.js
-
-Accessing Objects Properties with Bracket Notation.js
-
-Accessing Objects Properties with Variables.js
-
-Updating Object Properties.js
-
-Add New Properties to a JavaScript Object.js
-
-Delete Properties from a JavaScript Object.js
-
-Using Objects for Lookups.js
-
-Testing Objects for Properties.js
-
-Manipulating Complex Objects.js
-
-Accessing Nested Objects.js
-
-Accessing Nested Arrays.js
-
-Iterate with JavaScript For Loops.js
-
-Iterate Odd Numbers With a For Loop.js
-
-Count Backwards With a For Loop.js
-
-Iterate Through an Array with a For Loop.js
-
-Nesting For Loops.js
-
-Iterate with JavaScript While Loops.js
-
-Profile Lookup.js
-
-Generate Random Fractions with JavaScript.js
-
-Generate Random Whole Numbers with JavaScript.js
-
-Generate Random Whole Numbers within a Range.js
-
-Sift through Text with Regular Expressions.js
-
-Find Numbers with Regular Expressions.js
-
-Find Whitespace with Regular Expressions.js
-
-Invert Regular Expression Matches with JavaScript
+52-Stand-in-Line.js
+53-Understanding-Boolean-Values.js
+54-Use Conditional-Logic-with-If-Statements.js
+55-Comparison-with-the-Equality-Operator.js
+56-Comparison-with-the-Strict-Equality-Operator.js
+57-Comparison-with-the-Inequality-Operator.js
+58-Comparison-with-the-Strict-Inequality-Operator.js
+59-Comparison-with-the-Greater-Than-Operator.js
+60-Comparison-with-the-Greater-Than-Or-Equal-To-Operator.js
+61-Comparison-with-the-Less-Than-Operator.js
+62-Comparison-with-the-Less-Than-Or-Equal-To-Operator.js
+63-Comparisons-with-the-Logical-And-Operator.js
+64-Comparisons-with-the-Logical-Or-Operator.js
+65-Introducing-Else-Statements.js
+66-Introducing-Else-If-Statements.js
+67-Logical-Order-in-If-Else-Statements.js
+68-Chaining-If-Else-Statements.js
+69-Golf-Code.js
+70-Selecting-from-many-options-with-Switch-Statements.js
+71-Adding-a-default-option-in-Switch-statements.js
+72-Multiple-Identical-Options-in-Switch-Statements.js
+73-Replacing-If-Else-Chains-with-Switch.js
+74-Returning-Boolean-Values-from-Functions.js
+75-Return-Early-Pattern-for-Functions.js
+76-Counting-Cards.js
+77-Build-JavaScript-Objects.js
+78-Accessing-Objects-Properties-with-the-Dot-Operator.js
+79-Accessing-Objects-Properties-with-Bracket-Notation.js
+80-Accessing-Objects-Properties-with-Variables.js
+81-Updating-Object-Properties.js
+82-Add-New-Properties-to-a-JavaScript-Object.js
+83-Delete-Properties-from-a-JavaScript-Object.js
+84-Using-Objects-for-Lookups.js
+85-Testing-Objects-for-Properties.js
+86-Manipulating-Complex-Objects.js
+87-Accessing-Nested-Objects.js
+88-Accessing-Nested-Arrays.js
+89-Iterate-with-JavaScript-For-Loops.js
+90-Iterate-Odd-Numbers-With-a-For-Loop.js
+91-Count-Backwards-With-a-For-Loop.js
+92-Iterate-Through-an-Array-with-a-For-Loop.js
+93-Nesting-For-Loops.js
+94-Iterat-with-JavaScript-While-Loops.js
+95-Profile-Lookup.js
+96-Generate-Random-Fractions-with-JavaScript.js
+97-Generate-Random-Whole-Numbers-with-JavaScript.js
+98-Generate-Random-Whole-Numbers-within-a-Range.js
+99-Sift-through-Text-with-Regular-Expressions.js
+100-Find-Numbers-with-Regular-Expressions.js
+101-Find-Whitespace-with-Regular-Expressions.js
+102-Invert-Regular-Expression-Matches-with-JavaScript.js
