@@ -36,7 +36,7 @@ var Car = function() {
 // Only change code below this line.
 
 var MotorBike = function() {
-  this.wheel = 4;
+  this.wheels = 4;
   this.engines = 1;
   this.seats = 2;''
 };
