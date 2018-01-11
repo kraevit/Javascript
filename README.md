@@ -1,2 +1,2 @@
-# Javascript
-Basic to Advanced JS
+Learn Javascript from basic to advanced level.
+
