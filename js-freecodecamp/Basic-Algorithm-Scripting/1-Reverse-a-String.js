@@ -26,7 +26,11 @@ Here are some helpful links:
 */
 
 function reverseString(str) {
-  var strReversed = str.split('').reverse().join('');
+  var strReversed = 
+    str.split('')
+       .reverse()
+       .join('');
+       
   console.log(strReversed);
 }
 
