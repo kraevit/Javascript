@@ -1,0 +1,19 @@
+#shape {
+  width: 150px;
+  height: 150px;
+  display: none;
+  background-color: red;
+  position: relative;
+}
+
+#shape:hover {
+  cursor: pointer;
+}
+
+.circle {
+  border-radius: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
