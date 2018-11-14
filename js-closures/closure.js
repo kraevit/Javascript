@@ -28,7 +28,7 @@ function makeAdder() {
     const add = function() {
       i++; // i = i + 1
       return i;
-    }
+    };
     return add;
 }
 const increment = makeAdder(); // here the result assigned to increment is function definition (line 25-26) + closure(backpack) 
