@@ -1,4 +1,4 @@
-(function IIFE( global ) {	
+(function IIFE( global ) {
 	"use strict";
 
   // PROTOTYPE CHAIN
