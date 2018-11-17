@@ -24,5 +24,14 @@
   
   // here we have access only to john's firstname prop, because it overwrites firstname prop of the person obj.
   console.log( john.firstname ); 
+  
+  /*=======================================================*/
+  
+  var jane = {
+    firstname: 'Jane'
+  }
+  jane.__proto__ = person;
+  console.log( jane.getFullName() ); // output: 'Jane Default' ?
+  
     
 })();
