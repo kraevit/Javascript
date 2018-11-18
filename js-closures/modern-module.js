@@ -62,3 +62,6 @@ console.log(
 ); // Let me introduce: hippo
 
 foo.awesome(); // LET ME INTRODUCE: HIPPO
+
+/*Both the "foo" and "bar" modules are defined with a function that returns a public API. "foo" even receives the 
+instance of "bar" as a dependency parameter, and can use it accordingly.*/
