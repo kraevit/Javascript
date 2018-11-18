@@ -16,6 +16,12 @@
         setupBot( "Closure BOT 1", "#bot_1" );
         setupBot( "Closure BOT 2", "#bot_2" );
         
+        /* (Some) joking aside, essentially whenever and wherever you treat functions 
+        (which access their own respective lexical scopes) as first-class values and pass them around, 
+        you are likely to see those functions exercising closure. Be that timers, event handlers, Ajax requests, 
+        cross-window messaging, web workers, or any of the other asynchronous (or synchronous!) tasks, 
+        when you pass in a callback function, get ready to sling some closure around! */
+        
       });    
       
     </script>
