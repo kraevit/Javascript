@@ -16,7 +16,7 @@ var foo = (function CoolModule() {
   return {
     doSomething: doSomething,
     doAnother: doAnother
-  }
+  };
   
 })();
 
