@@ -11,6 +11,7 @@ function CoolModule() {
     console.log( another.join( " ! " ));
   }
 
+  // public API
   return {
     doSomething: doSomething,
     doAnother: doAnother
