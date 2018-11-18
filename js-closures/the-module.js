@@ -16,3 +16,7 @@ function CoolModule() {
     doAnother: doAnother
   }
 }
+
+var foo = CoolModule();
+foo.doSomething(); // cool
+foo.doAnother(); // 1 ! 2 ! 3
