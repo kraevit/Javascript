@@ -15,7 +15,7 @@ function CoolModule() {
   return {
     doSomething: doSomething,
     doAnother: doAnother
-  }
+  };
 }
 
 var foo = CoolModule();
