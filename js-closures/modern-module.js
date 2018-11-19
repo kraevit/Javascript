@@ -42,7 +42,7 @@ MyModules.define( "bar", [] function(){
   
 });
 
-MyModules.define( "foo", [], function(){
+MyModules.define( "foo", ["bar"], function(bar){
   var hungry = "hippo";
   
   function awesome() {
