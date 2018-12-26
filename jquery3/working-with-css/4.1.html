@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>4.1 Метод css(): получаване и задаване на стойности на CSS стойства</title>
+<style type="text/css">
+  div { width: 160px; height: 160px; margin: 10px; float: left; background-color: hotpink ;}
+</style>
+<script type="text/javascript" src="../jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+  $(function (){
+
+    "use strict";
+
+    var old_width = $("div").css("width");
+    console.log( "old width: " + old_width );
+    var new_width = "120px";
+    $("div").css("width", new_width);
+    console.log( "new width: " + new_width );
+
+  });
+</script>
+</head>
+
+<body>
+  
+<h1>4.1 Метод css(): получаване и задаване на стойности на CSS стойства</h1>
+
+<div>Div 1</div>
+
+</body>
+</html>
