@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>jQuery Selecting Attributes</title>
+<style type="text/css">
+
+div { border: 2px solid red; margin: 10px 0; padding: 1em; }
+.c11 { background-color: green; color: white; }
+
+</style>
+</head>
+<body>
+    
+<a href="https://test.com" target="_blank" title="1">Test link</a>
+
+<div>Div 1</div>
+<div>Div 2</div>
+<div>Div 3</div>
+
+<button id="button1">addClass</button>
+<button id="button2">removeClass</button>
+<button id="button3">toggleClass</button>
+<button id="button4">hasClass</button>
+
+<div id="hello">Hello <b>World</b></div>
+
+<div class="value">
+  
+  <input type="text" id="fname" value="Your Name">
+  <button id="btn1">Get Value!</button>
+
+</div>  
+
+<div class="radio">
+    
+    <p>Choose Your OS:
+      <label>
+        <input type="radio" name="os" value="windows" checked="checked">
+        Windows
+      </label>
+      <label>
+        <input type="radio" name="os" value="linux">
+        Linux
+      </label>
+      <label>
+        <input type="radio" name="os" value="macos">
+        MacOS
+      </label>
+      <button id="btn2">Get OS!</button>
+    </p>
+</div>
+  
+<script type="text/javascript" src="../jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+$(function(){
+
+  "use strict";
+
+  /*
+    Глава 2. Атрибути на елементите
+
+    2.1 Методите attr() removeAttr(): получаване на стойност, задаване и изтрива-
+    не на атрибути;
+    2.2 Методите addClass() removeClass() toggleClass() hasClass(): работа със
+    стилове;
+    2.3 Методите html() и text(): работа със съдържанието на елементите;
+    2.4 Метод val(): работа с атрибута value
+    2.5 Използване на метода val() за получаване на стойност на избрания радиобутон
+  
+  */
+
+  // 2.1
+
+  // var target = $("a").attr("href");
+  // $("a").attr("href", "https://keytothe.net/kraevit");
+
+  // var href = $("a").attr("href");
+  // console.log("Current address: " + href + "\nNew address: https://done.com");
+  // $("a").attr("href", "https://done.com");
+  // $("a").attr("title", "Click Me!");
+  // $("a").attr({
+  //   "title": "Click Me!",
+  //   "href": "https://done.com"
+  // });
+  // $("a").removeAttr("title");
+
+  // 2.2
+
+  // $("#button1").click(function (){
+  //   $("div").addClass("c11");
+  // });
+
+  // $("#button2").click(function (){
+  //   $("div").removeClass("c11");
+  // });
+
+  // $("#button3").click(function (){
+  //   $("div").toggleClass("c11");
+  // });
+
+  // $("#button4").click(function (){
+  //   console.log($("div").hasClass("c11"));
+  // });
+
+  // 2.3 
+
+  // var txt = $("#hello").text();
+  // var txt1 = $("#hello").html();
+  // console.log(txt);
+  // console.log(txt1);
+
+  // 2.4
+
+  $("#btn1").click(function (){
+
+    var value = $("#fname").val();
+    console.log( value );
+
+  });
+
+  // 2.5
+
+  $("#btn2").click(function (){
+
+    var value = $(":radio[name=os]:checked").val();
+    console.log( value );
+
+  });
+
+
+});
+</script>
+</body>
+</html>
