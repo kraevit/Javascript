@@ -8,8 +8,22 @@
   <script>
       
       $(function (){
+        
+        // $.inArray(value,array)
 
-
+        var arr = [ "one", "two", "three", "four", "five", "six", "seven" ];
+        
+        $( 'p' ).text(arr.join( ', '));
+        
+        $( 'button' ).click(function (){
+          
+          console.log( 
+              
+            $.inArray( $( 'input' ).val(), arr );
+            
+          )
+          
+        });
 
       });
 
