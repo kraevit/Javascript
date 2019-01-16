@@ -15,10 +15,10 @@ const robot = {
    } else {
    	console.log('Pass in a number that is greater than or equal to 0');  
    } */ 
-    typeof num== 'number' && num>= 0?
-      this._numOfSensors = num :
-    	console.log('Pass in a number that is greater than or equal to 0');
-  }
+   typeof num== 'number' && num>= 0?
+   this._numOfSensors = num :
+   console.log('Pass in a number that is greater than or equal to 0');
+ }
 };
 
 robot.numOfSensors = 100;

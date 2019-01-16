@@ -89,7 +89,7 @@
 					// Рестартиране след 1 секунда
 					setTimeout('ajax()', 1000);
 				}
-				// Ако статусър не е 200, значи е възникнала грешка
+				// Ако статусът не е 200, значи е възникнала грешка
 				else 
 					{
 						console.error("Error accessing the server: " + xhr.statusText);

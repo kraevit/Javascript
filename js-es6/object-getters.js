@@ -6,8 +6,8 @@ const robot = {
       return `My current energy level is ${this._energyLevel}`;
     } else {
      return `System malfunction: cannot retrieve energy level`; 
-    }
-  }
+   }
+ }
 };
 
 console.log(robot.energyLevel);
