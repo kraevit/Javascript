@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+	<title>JS: Digital Clock</title>
+</head>
+<body>
+
+	<h1 id="clock"></h1>
+
+</body>
+<script>
+	
+	"use strict";
+
+	function digitalClock(){
+
+		let date = new Date();
+
+		let hours = date.getHours() + '', // implicit coercion
+			minutes = date.getMinutes() + '', // implicit coercion
+			seconds = String(date.getSeconds()), // explicit coercion
+			day = date.getDay();
+
+		if ( hours.length < 2 ) {
+			hours = "0" + hours;
+		}
+
+		if ( minutes.length < 2 ) {
+			minutes = "0" + minutes;
+		}
+
+		if ( seconds.length < 2 ) {
+			seconds = "0" + seconds;
+		}
+
+		const weekDay = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+
+		// let clock = weekDay[day] + " " + hours + ":" + minutes + ":" + seconds;
+
+		let clock = `${weekDay[day]} ${hours}:${minutes}:${seconds}`;
+
+		document.getElementById("clock").innerHTML = clock;
+	}
+
+	setInterval(digitalClock, 1000);
+
+</script>
+</html>
