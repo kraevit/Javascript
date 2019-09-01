@@ -33,4 +33,4 @@ console.log(
   bar.hello( "rhino" )
 ); // Let me introduce: rhino
 
-foo.awesome(); // LET ME INTRODUCE: HIPPO
+foo.awesome(); // LET ME INTRODUCE:
