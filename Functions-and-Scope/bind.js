@@ -1,7 +1,7 @@
 // bind - makes a copy of a func and assign new context to "this"
 
 let obj = {
-	carId: 123,
+  carId: 123,
   getId: function() {
     return this.carId;
   }
