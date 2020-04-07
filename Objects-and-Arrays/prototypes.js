@@ -1,5 +1,5 @@
-// Prototypes - WE USE PROTOTYPES to Attach single function to a OBJect, otherwise if we have 1000000 instaces of an obj
-// we will have also 10000000 copies of the same func wich is not we want!!!!!!
+// Prototypes - WE USE PROTOTYPES to Attach single function to an Object, otherwise if we have 1000000 instances of the object
+// we will also have 1000000 copies of the same function wich is not we want!!!!!! ( Too much memory consumption :) )
 
 function Car(id) {
 	this.carId = id;
