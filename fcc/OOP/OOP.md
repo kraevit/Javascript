@@ -233,7 +233,7 @@ let duck = Object.create(Animal.prototype);
 let beagle = Object.create(Animal.prototype);
 ```
 
-### 16. Set the Child's Protptype to an Instance of the Parent
+### 16. Set the Child's Prototype to an Instance of the Parent
 ```javascript
 function Animal() { }
 
