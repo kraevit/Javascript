@@ -36,4 +36,9 @@ function mutation(arr) {
   return true;  
 }
 
-mutation(["hello", "hey"]);
+function mutation_short(arr) {
+  arr = arr.map(word=>word.toLowerCase().split(""));
+  return arr[1].every(letter=>arr[0].indexOf(letter) != -1);
+}
+
+mutation_short(["hello", "hey"]);
