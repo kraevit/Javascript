@@ -251,7 +251,7 @@ Dog.prototype = Object.create(Animal.prototype);
 beagle.eat();
 ```
 
-### 17. Reset an Inherited Constrctor Property
+### 17. Reset an Inherited Constructor Property
 ```javascript
 function Animal() { }
 function Bird() { }
